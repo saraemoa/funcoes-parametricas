@@ -1,0 +1,2 @@
+# funcoes-parametricas
+Computação Gráfica
